@@ -1,0 +1,24 @@
+BEGIN:VCARD
+PROFILE:VCARD
+VERSION:3.0
+MAILER:Microsoft Exchange
+PRODID:Microsoft Exchange
+FN:Tom Farrier
+N:Farrier;Tom;;;
+EMAIL;TYPE=INTERNET:tfarrier@murphymahon.com
+NOTE:\n
+ORG:Murphy Mahon Keffler & Farrier LLP;
+CLASS:PUBLIC
+ADR;TYPE=WORK,PREF:;;505 Pecan St.\, Suite 201\nTindall Square Bulding No.
+ 2;Fort Worth;Texas;76102;United States of America
+LABEL;TYPE=WORK,PREF:505 Pecan St.\, Suite 201\nTindall Square Bulding No.
+ 2\nFort Worth\, Texas  76102
+ADR;TYPE=HOME:;;;;;;
+ADR;TYPE=POSTAL:;;;;;;
+TEL;TYPE=WORK:(817) 877-4821
+TEL;TYPE=CELL:(817) 614-9311
+TEL;TYPE=WORK,FAX:(817) 632-9662
+TITLE:
+X-MS-IMADDRESS:
+REV;VALUE=DATE-TIME:2018-05-21T14:36:07,106Z
+END:VCARD
